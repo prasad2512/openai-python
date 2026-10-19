@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.35.2](https://github.com/openai/openai-python/compare/v3.35.1...v3.35.2) (2026-10-19)
+
+
+### Bug Fixes
+
+* **api:** accept canonical batch responses in strict mode ([#4106](https://github.com/openai/openai-python/issues/4106)) ([6eaa90e](https://github.com/openai/openai-python/commit/6eaa90ee20b40bbe84a5b1a5031d7cf672c7d368))
+
+
+### Chores
+
+* **api:** use neutral moderation examples ([#4104](https://github.com/openai/openai-python/issues/4104)) ([553703e](https://github.com/openai/openai-python/commit/553703e2d3db379a83e3ead9e40436b7a66f639e))
+
 ## [3.35.1](https://github.com/openai/openai-python/compare/v3.35.0...v3.35.1) (2026-10-18)
 
 
